@@ -7,7 +7,7 @@ Instagram Brute Force CPU/GPU Supported 2024
 
 (Chrome should be downloaded in device.)
 
-Compatible and Tested (UI Supported Operating Systems Only)
+Compatible and Tested (GUI Supported Operating Systems Only)
 
 Python 3.13
 x64 bit
