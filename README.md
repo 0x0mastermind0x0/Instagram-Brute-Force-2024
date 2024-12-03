@@ -7,6 +7,11 @@ Compatible and Tested
   Python 3.13
   x64 bit
   Unix / Linux / Mac / Windows 8.1 and higher
+  
+Install Requirements
+```
+pip install -r requirements.txt
+```
 
 How to run
 ```
